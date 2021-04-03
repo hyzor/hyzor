@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end development including React and TypeScript
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me send me an email
+- 📫 How to reach me, send me an email
 
 <!---
 hyzor/hyzor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
