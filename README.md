@@ -6,6 +6,8 @@ Systems Developer
 
 I have years of professional experience in both front-end and back-end development.
 
+I'm also very familiar with DevOps and moving applications to the cloud (things like Kubernetes, ArgoCD, AWS, etc.).
+
 * 🌍  I'm based in Uppsala, Sweden
 * ✉️  You can contact me at [jesper.hansson.f@gmail.com](mailto:jesper.hansson.f@gmail.com)
 * 🤝  I'm open to collaborating on anything!
