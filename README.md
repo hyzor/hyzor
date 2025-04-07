@@ -9,7 +9,7 @@ I have years of professional experience in both front-end and back-end developme
 I'm also very familiar with DevOps and moving applications to the cloud (things like Kubernetes, ArgoCD, AWS, etc.).
 
 * 🌍  I'm based in Uppsala, Sweden
-* ✉️  You can contact me at [jesper.hansson.f@gmail.com](mailto:jesper.hansson.f@gmail.com)
+* ✉️  You can contact me at [jesper.falkenby@gmail.com](mailto:jesper.falkenby@gmail.com)
 * 🤝  I'm open to collaborating on anything!
 
 ### Skills
